@@ -9,6 +9,7 @@ In this project, we setup a  "Hello Microverse" project.
 Live demo link
 
 ## Authors
+- Name : Vianney AHONON
 - GitHub: https://github.com/Vianney992
 - Twitter: https://twitter.com/AhononV
 
