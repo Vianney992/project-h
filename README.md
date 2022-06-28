@@ -5,9 +5,6 @@ In this project, we setup a  "Hello Microverse" project.
 - HTML
 - CSS
 
-## Live Demo
-Live demo link
-
 ## Authors
 - Name : Vianney AHONON
 - GitHub: https://github.com/Vianney992
